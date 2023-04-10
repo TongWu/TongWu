@@ -20,7 +20,7 @@
   <a href="https://github.com/TongWu">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api/wakatime?username=TedWu&layout=compact&theme=dark&langs_count=10&count_private=true&include_all_commits=true" />
+         src="https://github-readme-stats.vercel.app/api/wakatime?username=TedWu&layout=default&theme=dark&langs_count=10&count_private=true&include_all_commits=true" />
   </a>
 
 
