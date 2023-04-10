@@ -7,20 +7,19 @@ int main() {
     char info[128] = "Electronic Engineering and Computer Science";
 
     char *langs[6] = { "C", "C++", "Python", "Java", "R", "MYSQL" };
-    char focus[4] = { "EE", "CS", "DS", "ML" };
     
     return 0; 
     }
 ```
 
 <h4 align="center">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=r&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=r&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&fill=black&textfill=bface6&">
 <p align="center">
   <a href="https://github.com/TongWu">
     <img align="center"
