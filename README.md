@@ -1,4 +1,4 @@
-# Hello! 你好！ 👋
+# Hello! 你好！👋
 ```C++
 #include <iostream>
 #include <stdio.h>
