@@ -1,26 +1,5 @@
 # Hello! 你好！👋
-```C++
-#include <iostream>
-#include <stdio.h>
-using namespace std::TongWu;
 
-int main() {
-    char info[128] = "Electronic Engineering and Computer Science";
-
-    char *langs[6] = { "C", "C++", "Python", "Java", "R", "MYSQL" };
-    
-    return 0; 
-    }
-```
-
-<h4 align="center">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=r&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&fill=black&textfill=bface6&">
 <p align="center">
   <a href="https://github.com/TongWu">
     <img align="center"
@@ -39,6 +18,15 @@ int main() {
          src="https://github-readme-stats.vercel.app/api/top-langs?username=TongWu&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
   </a>
+
+<h4 align="center">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=r&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&fill=black&textfill=bface6&">
 
 <p align="center">
   <a href="https://github.com/TongWu">
