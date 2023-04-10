@@ -24,15 +24,15 @@
          height="150em"
          src="[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TedWu)](https://github.com/anuraghazra/github-readme-stats)" />
   </a>
-
 <h4 align="center">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=r&text=false&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=r&text=false&&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+
 
 
 <p align="center">
@@ -43,3 +43,25 @@
   </a>
 </a>
 </p>
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
