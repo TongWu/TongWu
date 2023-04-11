@@ -22,7 +22,7 @@
          height="150em"
          src="https://github-readme-stats.vercel.app/api/wakatime?username=TedWu&layout=default&theme=dark&langs_count=10&count_private=true&include_all_commits=true" />
   </a>
-
+![](https://api.githubtrends.io/user/svg/TongWu/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
 
 
 <h4 align="center">
@@ -42,5 +42,4 @@
   </a>
 </a>
 </p>
-
 [![Ted's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TongWu&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
