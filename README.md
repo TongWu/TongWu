@@ -22,16 +22,7 @@
          height="150em"
          src="https://github-readme-stats.vercel.app/api/wakatime?username=TedWu&layout=default&theme=dark&langs_count=10&count_private=true&include_all_commits=true" />
   </a>
-
-<h4 align="center">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=r&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&fill=black&textfill=bface6&">
-
+<p style="text-align:center;"><img src="https://skillicons.dev/icons?i=c,cpp,python,r,java,mysql,arduino,matlab,docker,linux" alt="exasic logo" /></p>
 <p align="center">
   <a href="https://github.com/TongWu">
     <img
@@ -40,5 +31,5 @@
   </a>
 </a>
 </p>
-
 [![Ted's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TongWu&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
