@@ -22,7 +22,7 @@
          height="150em"
          src="https://github-readme-stats.vercel.app/api/wakatime?username=TedWu&layout=default&theme=dark&langs_count=10&count_private=true&include_all_commits=true" />
   </a>
-<p style="text-align:center;"><img src="https://skillicons.dev/icons?i=c,cpp,python,r,java,mysql,arduino,matlab,docker,linux" alt="exasic logo" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,r,java,mysql,arduino,matlab,docker,linux" alt="exasic logo" /></p>
 <p align="center">
   <a href="https://github.com/TongWu">
     <img
