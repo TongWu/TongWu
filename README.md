@@ -1,11 +1,7 @@
 # Hello! 你好！👋
 
 <p align="center">
-  <a href="https://github.com/TongWu">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=TongWu&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
-  </a>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dracula&preferLogin=false">    <img  alt="TongWu's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/TongWu?cardType=level&theme=dracula&preferLogin=false" />  </a>
   <a href="https://github.com/TongWu">
     <img align="center"
          height="150em"
@@ -22,6 +18,7 @@
          height="150em"
          src="https://github-readme-stats.vercel.app/api/wakatime?username=TedWu&layout=default&theme=dark&langs_count=10&count_private=true&include_all_commits=true" />
   </a>
+
 
 
 <h4 align="center">
@@ -41,3 +38,5 @@
   </a>
 </a>
 </p>
+
+[![Ted's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TongWu&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
