@@ -1,4 +1,4 @@
-# Hello! 你好！👋
+# Hi there! 你好！👋
 
 <p align="center">
   <a href="https://github.com/TongWu">
