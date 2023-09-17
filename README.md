@@ -24,16 +24,6 @@
          src="https://github-readme-stats.vercel.app/api/wakatime?username=TedWu&layout=default&theme=dark&langs_count=10&count_private=true&include_all_commits=true" />
   </a>
 -->
-<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,r,java,mysql,mongodb,postman,arduino,matlab,docker,nginx,googlecloud,linux,raspberrypi&theme=dark" alt="exasic logo" /></p>
-<p align="center">
-  <a href="https://github.com/TongWu">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=TongWu&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-  </a>
-</a>
-</p>
-
 <!--START_SECTION:waka-->
 
 ```python
@@ -54,3 +44,15 @@ Jupyter          1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,r,java,mysql,mongodb,postman,arduino,matlab,docker,nginx,googlecloud,linux,raspberrypi&theme=dark" alt="exasic logo" /></p>
+<p align="center">
+  <a href="https://github.com/TongWu">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=TongWu&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
+  </a>
+</a>
+</p>
+
+
