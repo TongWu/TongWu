@@ -39,7 +39,7 @@ Prolog           0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <a href="https://github.com/TongWu">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=TongWu&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&hide=stars,prs,issues" />
+         src="https://github-readme-stats.vercel.app/api?username=TongWu&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&hide=prs,issues&hide_rank=true" />
   </a>
     <img align="center"
          height="150em"
