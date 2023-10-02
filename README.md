@@ -1,5 +1,7 @@
 # Hi there! 你好！👋
 
+<a href="https://wakatime.com/@4e43b44f-429e-4c01-b2e3-4e932baefd36"><img src="https://wakatime.com/badge/user/4e43b44f-429e-4c01-b2e3-4e932baefd36.svg" alt="Total time coded since Apr 11 2023" /></a>
+
 <!--START_SECTION:waka-->
 
 ```python
@@ -20,7 +22,7 @@ Prolog           0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-<a href="https://wakatime.com/@4e43b44f-429e-4c01-b2e3-4e932baefd36"><img src="https://wakatime.com/badge/user/4e43b44f-429e-4c01-b2e3-4e932baefd36.svg" alt="Total time coded since Apr 11 2023" /></a>
+
 <p align="center">
   <a href="https://github.com/TongWu">
     <img align="center"
