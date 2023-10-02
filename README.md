@@ -53,7 +53,7 @@ Prolog           0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <a href="https://github.com/TongWu">
     <img align="center"
          height="150em"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=TongWu&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tongwu&theme=github_dark&utcOffset=9" />
   </a>
   <!--
   <a href="https://github.com/TongWu">
