@@ -39,6 +39,9 @@ Prolog           0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
     <img align="center"
          height="150em"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=TongWu&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact&hide=jupyter%20notebook" />
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tongwu&theme=github_dark" />
   </a>
   <!--
   <a href="https://github.com/TongWu">
@@ -47,7 +50,9 @@ Prolog           0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
          src="https://github-readme-stats.vercel.app/api/wakatime?username=TedWu&layout=default&theme=dark&langs_count=10&count_private=true&include_all_commits=true" />
   </a>
 -->
-<p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,r,java,mysql,mongodb,postman,arduino,matlab,docker,nginx,googlecloud,linux,raspberrypi&theme=dark" alt="exasic logo" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,java,mysql,mongodb,postman,arduino,matlab,docker,nginx,googlecloud,linux,raspberrypi&theme=dark" alt="exasic logo" />
+</p>
 <p align="center">
   <a href="https://github.com/TongWu">
     <img
