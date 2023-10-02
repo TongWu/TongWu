@@ -1,6 +1,10 @@
 # Hi there! 你好！👋
 
-<a href="https://wakatime.com/@4e43b44f-429e-4c01-b2e3-4e932baefd36"><img src="https://wakatime.com/badge/user/4e43b44f-429e-4c01-b2e3-4e932baefd36.svg" alt="Total time coded since Apr 11 2023" /></a>
+<p>
+  <a href="https://wakatime.com/@4e43b44f-429e-4c01-b2e3-4e932baefd36"><img src="https://wakatime.com/badge/user/4e43b44f-429e-4c01-b2e3-4e932baefd36.svg" alt="Total time coded since Apr 11 2023" /></a>
+  <a href="https://www.linkedin.com/in/ted-tongwu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
 
 <!--START_SECTION:waka-->
 
