@@ -54,5 +54,5 @@ Prolog           0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </a>
 </p>
-
+[![wakatime](https://wakatime.com/badge/user/4e43b44f-429e-4c01-b2e3-4e932baefd36.svg)](https://wakatime.com/@4e43b44f-429e-4c01-b2e3-4e932baefd36)
 
