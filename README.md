@@ -36,14 +36,6 @@ Prolog           0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </p>
 
 <p align="center">
-    <img align="center"
-         height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tongwu&theme=github_dark" />
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tongwu&theme=github_dark&utcOffset=8" />
-  </a>
-<p align="center">
   <a href="https://github.com/TongWu">
     <img align="center"
          height="150em"
@@ -54,6 +46,17 @@ Prolog           0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
          height="150em"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=TongWu&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact&hide=jupyter%20notebook" />
   </a>
+</p>
+
+<p align="center">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tongwu&theme=github_dark" />
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tongwu&theme=github_dark&utcOffset=8" />
+  </a>
+</p>
   <!--
   <a href="https://github.com/TongWu">
     <img align="center"
