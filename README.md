@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 17 December 2023 - To: 16 January 2024
+From: 18 December 2023 - To: 17 January 2024
 
 Total Time: 13 hrs 8 mins
 
