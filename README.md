@@ -65,7 +65,7 @@ GitIgnore file   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,java,mysql,mongodb,postman,arduino,matlab,docker,nginx,googlecloud,linux,raspberrypi&theme=dark" alt="exasic logo" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,r,java,mysql,mongodb,matlab,pytorch,tensorflow,docker,postman,linux,arduino,raspberrypi&theme=dark" alt="exasic logo" />
 </p>
 <p align="center">
   <a href="https://github.com/TongWu">
