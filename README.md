@@ -1,12 +1,21 @@
 # Hi there! 你好！👋
 
+## Life Stack
+
+This is Ted Wu.
+- Currently:
+  - Master of Computing student at National University of Singapore
+- Previously:
+  - Master of Science student at Columbia University
+  - Bachelor of Enginnering student at University of Manchester
+
 <p>
   <!-- <a href="https://www.linkedin.com/in/ted-tongwu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
   
   <a href="https://leetcode.com/TedWoo/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://steamcommunity.com/id/TedWu/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <!-- <a href=""><img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a> -->
   <a href=""><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/></a>
   <a href=""><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
