@@ -1,14 +1,5 @@
 # Hi there! 你好！👋
 
-## Life Stack
-
-This is Ted Wu.
-- Currently:
-  - Master of Computing student at National University of Singapore
-- Previously:
-  - Master of Science student at Columbia University
-  - Bachelor of Enginnering student at University of Manchester
-
 <p>
   <!-- <a href="https://www.linkedin.com/in/ted-tongwu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
   
