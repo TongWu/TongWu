@@ -20,12 +20,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 June 2024 - To: 05 July 2024
+From: 06 June 2024 - To: 06 July 2024
 
-Total Time: 1 hr 33 mins
+Total Time: 1 hr 24 mins
 
-Other   48 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.34 %
-YAML    44 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.66 %
+YAML    44 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.58 %
+Other   40 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   47.42 %
 ```
 
 <!--END_SECTION:waka-->
