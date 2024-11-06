@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 October 2024 - To: 04 November 2024
+From: 06 October 2024 - To: 05 November 2024
 
 Total Time: 4 hrs 54 mins
 
