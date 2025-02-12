@@ -21,12 +21,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 11 January 2025 - To: 10 February 2025
+From: 12 January 2025 - To: 11 February 2025
 
-Total Time: 2 hrs 10 mins
+Total Time: 2 hrs 5 mins
 
-Other     1 hr 31 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀   69.83 %
-Jupyter   39 mins         ⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.13 %
+Other     1 hr 26 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀   68.74 %
+Jupyter   39 mins         ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.22 %
 Bash      0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.04 %
 ```
 
