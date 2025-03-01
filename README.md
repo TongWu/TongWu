@@ -21,13 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 28 January 2025 - To: 27 February 2025
+From: 29 January 2025 - To: 28 February 2025
 
-Total Time: 43 mins
+Total Time: 55 mins
 
-Other     17 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   40.62 %
-YAML      14 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.06 %
-Jupyter   11 mins         ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.32 %
+YAML      25 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.18 %
+Other     17 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.18 %
+Jupyter   11 mins         ⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.64 %
 ```
 
 <!--END_SECTION:waka-->
