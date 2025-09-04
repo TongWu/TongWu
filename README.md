@@ -21,12 +21,12 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 August 2025 - To: 02 September 2025
+From: 04 August 2025 - To: 03 September 2025
 
-Total Time: 25 mins
+Total Time: 50 mins
 
-Python   13 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.16 %
-Other    11 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.84 %
+Python   39 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀   76.94 %
+Other    11 mins         ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.06 %
 ```
 
 <!--END_SECTION:waka-->
